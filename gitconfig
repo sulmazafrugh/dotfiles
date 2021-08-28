@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sulmaz.afrugh@gmail.com
+	name = sulmaz afrugh
